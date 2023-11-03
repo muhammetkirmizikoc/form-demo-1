@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #1b2559ca;
+}
+*{
+    list-style: none;
+    text-decoration: none;
+}
+article{
+    width: 90%;
+    margin-top: 2.5%;
+}
+article .pasword-reset img{
+    width: 20px;
+}
+.or-kapsa > div{
+    margin:0 3px;
+    color: #1b25597d;
+}
+.or-1{
+    border: 1px solid #1b25597d;
+    width: 50%;
+}
+.gonder{
+    background-color: #591FF9;
+    color: #fff;
+}
